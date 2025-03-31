@@ -6,6 +6,7 @@ function App() {
       Please Hoja!!!
       Updated!!
       Updated Again!!!
+      Updated Again 2!!!
     </div>
   );
 }
